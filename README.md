@@ -1,9 +1,7 @@
-🤔 Hi i'm axtodev
+Hi, I'm axtodev 👋
+✔ Not the best dev, but always improving
 
-✔ I'm a shit developer 
+Working on ximipvp
 
-Working on ximipvp.
-
-
-My discord: crrf
-my telegram: @sbxrra
+Discord: crrf
+Telegram: @sbxrra
